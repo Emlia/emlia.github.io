@@ -1,4 +1,6 @@
 * [首页](/)
+* es6
+  * [promise](/note/es6/promise/index)
 * vue
   * [vue-mvvm](note/article/vue-mvvm/index)
 * [rxjs](/note/rxjs/README)
