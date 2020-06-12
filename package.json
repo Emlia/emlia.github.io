@@ -1,0 +1,23 @@
+{
+  "name": "emlia.github.io",
+  "version": "1.0.0",
+  "description": "> 最后更新于: {docsify-updated}",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "docsify serve ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emlia/emlia.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emlia/emlia.github.io/issues"
+  },
+  "homepage": "https://github.com/Emlia/emlia.github.io#readme",
+  "devDependencies": {
+    "docsify-cli": "^4.4.1"
+  }
+}
