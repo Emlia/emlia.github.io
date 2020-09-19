@@ -1,3 +1,6 @@
 [submodule "note"]
 	path = note
 	url = https://github.com/Emlia/note.git
+[submodule "abc-react"]
+	path = abc-react
+	url = https://github.com/Emlia/abc-react
