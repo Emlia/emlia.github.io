@@ -7,6 +7,7 @@
 * css
   * [scss](/note/css/scss/index)
 * [git](/note/git/index)
+* [interview](/note/interview/index)
 * 代码段
   * [debounce](note/code/debounce/index)
 * [abc-react](https://emlia.github.io/abc-react/build/index.html)
